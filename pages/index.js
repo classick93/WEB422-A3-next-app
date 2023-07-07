@@ -7,8 +7,8 @@
  *  Name: Jason Shin
  *  Student ID: 111569216
  *  Date: June 15 2023
- *  Cyclic Link: https://white-gosling-hat.cyclic.app/
- *  Next App Link: aesthetic-florentine-4a9ee6.netlify.app
+ *  Cyclic Link (Assignment 2): https://white-gosling-hat.cyclic.app/
+ *  Next App Link (Assignment 3): aesthetic-florentine-4a9ee6.netlify.app
  *
  ****************************************************************************/
 
